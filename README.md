@@ -1,7 +1,5 @@
 # PREDICTATHON
 
-# Deepfake Detection Model
-
 ## Project Title:Deepfake Detection Model
 
 ## Project Description:
