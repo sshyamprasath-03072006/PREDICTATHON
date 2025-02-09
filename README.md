@@ -14,9 +14,9 @@ This project aims to build a deepfake detection model that can classify images a
 ## Installation
 Install the required dependencies using **pip**:
 
-    ```
+    
     pip install -r requirements.txt
-    ```
+    
 
 ## Running the Code
 
